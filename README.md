@@ -11,7 +11,7 @@
 
 <!-- ===== ABOUT ===== -->
 <p align="center">
-🎓 7th semester <b>Informatics Engineering</b> student at UMC <br>
+🎓 <b>Informatics Engineering</b> student at UMC <br>
 🔎 Love exploring <b>new technologies & problem solving</b> <br>
 💻 Passionate about exploring projects in my free time <br>
 ⚡ Enjoy optimizing logic, structure, and clean code
