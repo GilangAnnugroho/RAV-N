@@ -3,12 +3,16 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" />
 
 # Hi, I'm Gilang 👋
-🎓 7th semester **Informatics Engineering** student at UMC
-🔎 Love exploring **new technologies & problem solving**  
-💻 Passionate about exploring projects in my free time  
-⚡ Enjoy optimizing logic, structure, and clean code 
 
 </div>
+
+<p align="justify">
+🎓 7th semester <b>Informatics Engineering</b> student at UMC &nbsp; 🔎 Love exploring <b>new technologies & problem solving</b><br>
+💻 Passionate about exploring projects in my free time<br>
+⚡ Enjoy optimizing logic, structure, and clean code
+</p>
+
+---
 
 ## 💻 Tech Stack
 
@@ -17,6 +21,8 @@
 <img src="https://skillicons.dev/icons?i=php,python,html,css,js,dart,laravel,flutter&theme=dark" />
 
 </div>
+
+---
 
 <div align="center">
 
