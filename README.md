@@ -32,34 +32,4 @@
 
 ---
 
-<!-- ===== GITHUB STATS ===== -->
-<div align="center">
 
-## 📊 GitHub Analytics
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=GilangAnnugroho&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilangAnnugroho&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-
-</div>
-
----
-
-<!-- ===== SNAKE ===== -->
-<div align="center">
-
-## 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/GilangAnnugroho/GilangAnnugroho/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
-
-<!-- ===== FOOTER ===== -->
-<div align="center">
-
-### 🤝 Let's Connect & Build Something Great Together
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0d1117&height=140&section=footer"/>
-
-</div>
