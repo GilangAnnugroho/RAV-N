@@ -1,19 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100px">
   <h1>Hi there, I'm Gilang! 👋</h1>
-  <p><b>Computer Engineering Student</b> based in <b>Indonesia</b> 🇮🇩</p>
-  <p>I build web applications & explore AI solutions.</p>
 </div>
-
-<br>
-
-### 👨‍💻 About Me
-- 🔭 I’m currently working on **Laravel & Python Projects**
-- 🌱 I’m currently learning **Flutter & Data Science**
-- 🎓 Semester 7 Student focusing on **Expert Systems & Decision Support Systems**
-- ⚡ Fun fact: I love optimizing code and solving logic puzzles.
-
----
 
 ### 🛠️ Tech Stack & Tools
 <div align="left">
