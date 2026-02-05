@@ -5,8 +5,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Informatics+Engineering+Student;Web+%26+Mobile+Developer;AI+%26+Expert+System+Enthusiast" />
 
-<img src="https://komarev.com/ghpvc/?username=GilangAnnugroho&label=Profile%20Views&color=2563eb&style=for-the-badge" />
-
 </div>
 
 ---
